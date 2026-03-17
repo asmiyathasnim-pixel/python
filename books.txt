@@ -1,0 +1,5 @@
+Python Basics
+OOP Concepts
+Data Structures
+Django Guide
+Machine Learning

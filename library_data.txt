@@ -1,0 +1,16 @@
+1984,George Orwell,True
+To Kill a Mockingbird,Harper Lee,False
+1984,George Orwell,False
+To Kill a Mockingbird,Harper Lee,False
+1984,George Orwell,False
+To Kill a Mockingbird,Harper Lee,False
+1984,George Orwell,False
+To Kill a Mockingbird,Harper Lee,False
+1984,George Orwell,False
+To Kill a Mockingbird,Harper Lee,False
+1984,George Orwell,False
+To Kill a Mockingbird,Harper Lee,False
+1984,George Orwell,False
+To Kill a Mockingbird,Harper Lee,False
+yyy,ttt,False
+C:\Users\lenovo\AppData\Local\Programs\Python\Python314\python.exe c:/Users/lenovo/OneDrive/Documents/talrop/syllabus/python/prjct.py,C:\Users\lenovo\AppData\Local\Programs\Python\Python314\python.exe c:/Users/lenovo/OneDrive/Documents/talrop/syllabus/python/prjct.py,False
